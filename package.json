@@ -1,6 +1,6 @@
 {
 	"name": "multipick",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Find the first pick amid a selection of objects",
 	"main": "multipick.js",
 	"scripts": {

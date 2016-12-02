@@ -14,7 +14,9 @@ function multipick( path, ...objects){
 }
 
 function _check( path, object){
-	if( isstring( path)){
+	if( object=== undefined|| object=== null){
+		return
+	}else if( isstring( path)){
 		return object[ path]
 	}else{
 		var value= object
