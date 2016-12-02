@@ -1,0 +1,19 @@
+{
+	"name": "multipick",
+	"version": "1.0.0",
+	"description": "Find the first pick amid a selection of objects",
+	"main": "multipick.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://archive.eldergods.com/multipick"
+	},
+	"keywords": ["pick"],
+	"author": "rektide de la faye",
+	"license": "X11",
+	"dependencies": {
+		"is-string": "^1.0.4"
+	}
+}
